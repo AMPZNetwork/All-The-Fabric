@@ -1,4 +1,4 @@
-![](https://www.bisecthosting.com/images/CF/ATF4/BH_NU_HEADER.png)
+![](https://www.bisecthosting.com/images/CF/ATF5/BH_NU_HEADER.webp)
 
 ------
 
@@ -8,7 +8,7 @@ This is the official repository for All The Fabric 5 1.20.1. If you encounter an
     
 #### Modpack Links: 
 + [Modrinth](https://modrinth.com/modpack/all-the-fabric-5)
-+ [Technic Launcher]( )
++ [Technic Launcher](https://www.technicpack.net/modpack/all-the-fabric-5.1978346)
 + [ATLauncher](https://atlauncher.com/pack/AllTheFabric5)
   
 ------
@@ -26,4 +26,4 @@ To ensure efficient tracking and resolution of issues, please follow this format
 ## Looking for a Reliable Server Host?
 As part of our commitment to providing the best gaming experience for our community, AMPZ Network has partnered with BisectHosting to offer an exclusive discount. Use promo code **"AMPZ"** to receive a 25% discount on your first order of any gaming services. Click the banner below to claim your discount and start playing today!
 
-[![](https://www.bisecthosting.com/images/CF/ATF4/BH_NU_PROMO.png)](https://bisecthosting.com/AMPZ)
+[![](https://www.bisecthosting.com/images/CF/ATF5/BH_NU_PROMO.webp)](https://bisecthosting.com/AMPZ?rgithub)
