@@ -1,14 +1,5 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
-labels: Bug
-assignees: LabsZero
-
----
-
----
-name: Bug report
 about: Issue report for All The Fabric 5
 title: "[BUG]"
 labels: Bug
@@ -37,6 +28,6 @@ If relevant, include screenshots to aid in explaining the issue.
 
 ## Basic Information (please fill in the following details):
  - Operating System: [e.g., Windows]
- - All The Fabric 5 Version: [e.g., v1]
- - Platform: [e.g., technicpack]
+ - All The Fabric 4 Version: [e.g., v1.0]
+ - Platform: [e.g., Modrinth]
  - Additional Mods Installed: [e.g., Optifine]
