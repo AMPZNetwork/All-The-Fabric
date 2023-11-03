@@ -8,7 +8,6 @@ This is the official repository for All The Fabric 5 1.20.1. If you encounter an
     
 #### Modpack Links: 
 + [Modrinth](https://modrinth.com/modpack/all-the-fabric-5)
-+ [Technic Launcher](https://www.technicpack.net/modpack/all-the-fabric-5.1978346)
 + [ATLauncher](https://atlauncher.com/pack/AllTheFabric5)
   
 ------
