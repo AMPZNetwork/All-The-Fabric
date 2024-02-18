@@ -5,6 +5,66 @@
 
 ---
 
+## Version: 5.5
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.15.7_
+
+### Updated:
+- Applied Energistics 2 (15.0.20 → 15.0.21)
+- Ad Astra (1.15.16 → 1.15.18)
+- Botarium (2.3.1 → 2.3.2)
+- BetterTrims (2.0.5 → 2.2.3)
+- Drippy Loading Screen (2.2.5 → 3.0.1)
+- Elytra Trims (1.4.4 → 2.0.0-beta.4)
+- FancyMenu (2.14.10-2 → 3.1.0)
+- Fabric API (0.9.1.0 → 0.9.1.1)
+- Flan (1.8.8 → 1.9.0)
+- Iris Shaders (1.6.11 → 1.6.17)
+- Iron Chests (2.0.0 → 2.0.2)
+- Indium (1.0.27 → 1.0.30)
+- Konkrete (1.7.0 → 1.8.0) 
+- Macaw's Furniture (3.2.1 → 3.2.2)
+- Puzzles Lib (8.1.11 → 8.1.16)
+- Resourceful Lib (2.1.20 → 2.1.23)
+- Reese's Sodium Options (1.6.5 → 1.7.2)
+- Sodium (0.5.3 → 0.5.8)
+- Sodium Extra (0.5.1 → 0.5.4)
+
+### Changed/Fixed
+- Please note this update will break the following items from the Ad Astra, you will need to replace them back after updating to this build:
+  - Sliding Doors
+  - Launch Pads
+  - Cables/Fluid Pipes
+  - All machines will lose their items, energy, and fluid contents.
+- Addressed the issue with the Tech Reborn Elevator block preventing upward movement ([#2](https://github.com/AMPZNetwork/All-The-Fabric-5/issues/2)).
+- Fixed energy cells keeping chunks loaded forever.
+- Corrected the application of Iron Mining Speed to all tools on all blocks.
+- Resolved a crash related to the Fire Charge effect.
+- Prevented game server crashes caused by placing CC blocks on the location of removed Furniture blocks.
+- Rectified display inconsistencies with the title bar pack icon, particularly on MacOS.
+- Added a convenient "continue" button to the main menu for quick access to the last saved game or server.
+- Included a Discord button on the main menu for easier access.
+- Certain items from the ad astra collection may need replacement after this update due to underlying changes.
+- Updated the server IP from `atfabric5.ampznetwork.com` to `atfb.ampznetwork.com`.
+- Implemented a news/update section within the main menu for important announcements and updates.
+
+### Added:
+- Fabricae Ex Nihilo
+- Industrial ReZolution
+- Emojuful
+- Continue
+- NetherPortalFix
+- Extreme Sound Muffler
+
+### Removed:
+- Industrial Revolution
+- Searchables
+- BackSlot
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+
+---
+
 ## Version: 5.4 (HotFix)
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.14.25_
