@@ -5,6 +5,73 @@
 
 ---
 
+## Version: 5.6
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.15.9_
+
+### Updated:
+- Applied Energistics 2 (15.0.20 → 15.1.0)
+- Ad-Astra: Giselle Addon (6.1 → 6.5) 
+- Architectury API (9.1.12 → 9.2.14)
+- Balm (7.2.1 → 7.2.2)
+- Bookshelf (20.1.8 → 20.1.9)
+- Botarium (2.3.2 → 2.3.3)
+- Bewitchment (1.20-7 → 1.20.8)
+- BetterTrims (2.2.3 → 2.3.0)
+- CC: Tweaked (1.109.5 → 1.110.2)
+- Chisel Reborn (1.6.0 → 1.6.1)
+- Cooking for Blockheads (16.0.1 → 16.0.3)
+- Controlify (2.0.0-beta.1 → 2.0.0-beta.2)
+- DrippyLoadingScreen (3.0.1 → 3.0.2)
+- Dungeons and Taverns (3.0.3 → 3.0.3.fix)
+- Elytra Trims (2.0.0-beta.4 → 2.1.1)
+- Fabric API (0.91.1 → 0.92.1)
+- Fabric Language Kotlin (1.10.17 → 1.10.19)
+- FancyMenu (3.1.0 → 3.1.4)
+- Flan (1.9.0 → 1.9.1)
+- Jade (11.7.0 → 11.8.0)
+- JourneyMap (5.9.18 → 5.9.20)
+- Konkrete (1.8.0 → 1.8.1)
+- Lootr (0.7.29.75 → 0.7.30.77)
+- Melody (1.0.1 → 1.0.4)
+- Macaw's Bridges (2.1.0 → 3.0.0)
+- Puzzles Lib (v8.1.16 → v8.1.17)
+- Tips (12.0.4 → 12.0.5)
+- Trample No More (13.0.2 → 13.0.3)
+- Polymorph (0.49.1 → 0.49.3)
+- Roughly Enough Items (12.0.684 → 12.0.697)
+
+### Changed/Fixed
+- Due to changes in Macaw's Bridges v3.0.0, bridges may appear distorted. To fix this, place a block above or next to the affected bridge or stairs, or break and replace them to trigger an update for neighboring bridges.
+- Added new types of bridge:
+  - Bridge Torch & Lantern
+  - Bridge Piers
+  - Red Asian Bridge + Stairs
+  - Glass Bridge + Stairs
+- Added [ComputerCraft Create](https://modrinth.com/resourcepack/ccc) resource pack by default.
+- Fixed void/dupe when cell is removed from ME chest while the menu is open.
+- Fixed text alignment for loading screen text.
+- Fixed "Empty or non-existent pool: Minecraft:witch_hut/foundation" error.
+- Fixed some UI assets not displaying on Linux devices.
+- Fixed DualSense left_stick_up icon being broken.
+- Fixed JourneyMap not updating properly for some users.
+- Made the title screen splash.txt behave like it does for vanilla Minecraft.
+- Improved bridge memory usage around 80-90%.
+- Enhanced the visibility of the pack version button to clearly indicate its clickable nature.
+
+### Added:
+- Create
+- Create Air Fabric
+- Create: Steam 'n' Rails
+- Create: Diesel Generators
+- Create Slice & Dice
+- Blur
+- Concurrent Chunk Management Engine
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+
+---
+
 ## Version: 5.5
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.15.7_
