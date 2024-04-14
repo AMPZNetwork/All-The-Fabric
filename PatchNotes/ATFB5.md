@@ -5,6 +5,24 @@
 
 ---
 
+## Version: 5.6.1
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.15.9_
+
+### Changed/Fixed
+- Fixed Exception in server tick loop when interacting with ModularWorkbench [#4](https://github.com/AMPZNetwork/All-The-Fabric/issues/4).
+- Fixed the advancement button on the pause menu not matching with the rest of the buttons.
+
+### Added:
+- Industrial Revolution
+
+### Removed:
+- Industrial ReZolution
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.6
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.15.9_
@@ -68,7 +86,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.15.9_
 - Blur
 - Concurrent Chunk Management Engine
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -103,7 +121,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.15.7_
   - Launch Pads
   - Cables/Fluid Pipes
   - All machines will lose their items, energy, and fluid contents.
-- Addressed the issue with the Tech Reborn Elevator block preventing upward movement ([#2](https://github.com/AMPZNetwork/All-The-Fabric-5/issues/2)).
+- Addressed the issue with the Tech Reborn Elevator block preventing upward movement ([#2](https://github.com/AMPZNetwork/All-The-Fabric/issues/2)).
 - Fixed energy cells keeping chunks loaded forever.
 - Corrected the application of Iron Mining Speed to all tools on all blocks.
 - Resolved a crash related to the Fire Charge effect.
@@ -128,7 +146,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.15.7_
 - Searchables
 - BackSlot
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -148,7 +166,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.14.25_
 ### Removed:
 - Controlling
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -179,7 +197,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.14.25_
 - Statement
 - Lanterns Belong on Walls
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -238,7 +256,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.14.25_
 ### Removed:
 - Starlight
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -276,7 +294,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.14.25_
 - Quarry Reborn
 - Polymorphic Energistic
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -311,7 +329,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.14.24_
 ### Added
 - Macaw's Furniture
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
@@ -321,6 +339,6 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.14.24_
 
 - Initial Release.
 
-For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-5)
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
