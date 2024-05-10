@@ -7,7 +7,7 @@
 This is the official repository for All The Fabric. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/All-The-Fabric/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug_report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing All The Fabric. 
     
 #### Current Modpack Links: 
-- [Modrinth](https://modrinth.com/modpack/all-the-fabric-5)
+- [Modrinth](https://modrinth.com/modpack/atfb)
 - [ATLauncher](https://atlauncher.com/pack/AllTheFabric5)
 
 <details>
