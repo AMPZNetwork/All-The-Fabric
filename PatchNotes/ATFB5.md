@@ -5,6 +5,79 @@
 
 ---
 
+## Version: 5.7.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.15.11_
+
+### Updated:
+- Applied Energistics 2 (15.1.0 → 15.2.0)
+- BetterTrims (2.3.0 → 2.3.1)
+- Bookshelf (20.1.9 → 20.1.10)
+- CC: Tweaked (1.110.2 → 1.111.0)
+- Chisel Reborn (1.6.1 → 1.7.2)
+- Clumps (12.0.0.3 → 12.0.0.4)
+- Continuity (3.0.0-beta4 → 3.0.0-beta5)
+- Controlify (2.0.0-beta2 → 2.0.0-beta10)
+- Cooking for Blockheads (16.0.3 → 16.0.4)
+- Create Slice & Dice (3.1.0 → 3.2.1)
+- Create: Diesel Generators (1.2.3h → 2.1.4)
+- Create: Steam 'n' Rails (1.6.0 → 1.6.4)
+- Elytra Trims (2.1.1 → 3.1.8)
+- Fabric Language Kotlin (1.10.19 → 1.11.0)
+- FabricAPI (0.9.2.1 → 0.92.2)
+- Fabricae Ex Nihilo (1.0.0-beta4 → 1.0.0)
+- FancyMenu (3.1.4 → 3.2.3)
+- Flan (1.9.1 → 1.10.4)
+- Hellion's Sniffer+ (0.2.0 → 0.3.0)
+- Iris Shaders (1.6.17 → 1.7.0)
+- Jade Addons (5.2.3 → 5.2.5)
+- Jade (11.8.0 → 11.9.2)
+- JourneyMap (5.9.20 → 5.9.22)
+- Lootr (0.7.30.77 → 0.7.33.81)
+- Open Loader (19.0.3 → 19.0.4)
+- Mouse Tweaks (2.25 → 2.26)
+- Pehkui (3.7.12 → 3.8.2)
+- Polymorph (0.49.3 → 0.49.5)
+- Polymorphic Energistics (0.1.0 → 0.1.1)
+- Puzzles Lib (8.1.17 → 8.1.20)
+- Resourceful Lib (2.1.23 → 2.1.25)
+- Roughly Enough Items (12.0.697 → 12.1.725)
+- Traveler's Backpack (9.1.9 → 9.1.13)
+- Trinkets (3.7.1 → 3.7.2)
+- YetAnotherConfigLib (3.2.1 → 3.4.4)
+- Entity Model Features (1.2.1 → 2.0.2)
+- Entity Texture Features (5.1.2 → 6.0.1)
+ 
+### Changed/Fixed
+- Added a "Reconnect" button to the disconnect screen.
+- Correctly handle multiple threads sending websocket messages at once.
+- Fixed dyed ovens not being craftable.
+- Fixed mixin crash and a few PRs with Create and diesel generators.
+- Fix crash when deploying a whistle onto a station when unbound.
+- Fixed Trains burning liquid fuel excessively quick.
+- Fixed sieve recipes being broken in REI.
+- Fixed a crash related to fluid rendering.
+- Fixed problem with saving items that should not be saveable in backpack inventory.
+
+### Added:
+- Farmer's Delight Refabricated
+- Hephaestus
+- Enderite Mod
+- Macaw's Fences and Walls
+- Macaw's Roofs
+- Macaw's Windows
+- Fix Keyboard on Linux
+- EmuNO
+- World Host
+- OptiGUI
+
+### Removed:
+- [Deprecated] Farmer's Delight
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.6.1
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.15.9_
