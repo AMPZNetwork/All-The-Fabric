@@ -4,6 +4,62 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+## Version: 5.8.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.0_
+
+#### Development on the next version of All The Fabric for 1.21 has started.
+
+### Updated:
+- Applied Energistics 2 (15.2.0 → 15.2.9)
+- Animatica (0.6 → 0.6.1)
+- Balm (7.2.2 → 7.3.6)
+- Better Advancements (0.3.2.162 → 0.4.2.10)
+- Bookshelf (20.1.10 → 20.2.13)
+- Botarium (2.3.3 → 2.3.4)
+- Cooking for Blockheads (16.0.4 → 16;0.6)
+- Chisel Reborn (1.7.2 → 1.8.0)
+- Controlify (2.0.0-beta.10 → 2.0.0-beta.13)
+- CraterLib (1.1.1 → 2.0.0)
+- Create Slice & Dice (3.2.1 → 3.2.3)
+- CompleteConfig (2.5.0 → 2.5.2)
+- Elytra Trims (3.1,8 → 3.4.0)
+- Extreme sound muffler (3.41 → 3.48)
+- Flan (1.10.4 → 1.10.6)
+- Indium (1.0.30 → 1.0.34)
+- Iris Shaders (1.7.0 → 1.7.2)
+- JourneyMap (5.9.22 → 5.10.0)
+- Let Sleeping Dogs Lie (1.2.0 → 1.3.0)
+- Macaw's Fences and Walls (1.1.1 → 1.1.2)
+- Pehkui (3.8.2 → 3.8.3)
+- Puzzles Lib (8.1.20 → 8.1.21)
+- Simple Discord RPC (3.2.4 → 3.3.1)
+- Sodium (0.5.8 → 0.5.11)
+- Tips (12.0.5 → 12.1.7)
+- Traveler's Backpack (9.1.13 → 9.1.15)
+- World Host (0.4.12 → 0.4.14)
+- YetAnotherConfigLib (3.4.4 → 3.5.0)
+- Entity Model Features (2.0.2 → 2.1.3)
+- Entity Texture Features (6.0.1 → 6.1.3)
+
+### Changed/Fixed
+- Resolved duplication issue affecting certain blocks.
+- Corrected the invisible side problem for Grass Topped Walls and Pillar Walls when placed next to transparent blocks.
+- Fixed the bug that occurred when swapping the selected item in the backpack inventory.
+- Enhanced the performance of recipe updates in crafting terminals.
+- Disabled the toast notification for world host reconnects.
+- Updated the Discord and Modrinth pack links displayed on Discord.
+
+### Added:
+- Create Enchantment Industry Fabric
+- TechReborn Player Ability Lib Compat
+- Macaw's Lights and Lamps
+- Immersive Paintings
+- iChunUtil
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
 
 ## Version: 5.7.0
 
