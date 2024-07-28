@@ -4,6 +4,42 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+## Version: 5.9.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.0_
+
+### Updated:
+- Concurrent Chunk Management Engine (0.2.0+alpha.11.5 → 0.2.0+alpha.11.8)
+- CraterLib (2.0.0 → 2.0.2)
+- Elytra Trims (3.4.0 → 3.4.3)
+- Hephaestus (3.6.4274 → 3.6.4.279)
+- Farmer's Delight Refabricated (2.1.1 → 2.1.2)
+- JourneyMap (5.10.0 → 5.10.1)
+- Jade (11.9.2 → 11.10.0)
+- Jade Addons (5.2.5 → 5.2.6)
+- Macaw's Roofs (2.3.0 → 2.3.1)
+- Resourceful Lib (2.1.25 → 2.1.28)
+- Roughly Enough Items (12.1.725 → 12.1.740)
+- Simple Discord RPC (3.3.1 → 3.3.2)
+- Traverse (7.0.11 → 7.0.12)
+
+### Changed/Fixed
+- Fixed server lag when playing on another person’s world via LAN or direct connection [#20](https://github.com/AMPZNetwork/All-The-Forge/issues/20)
+- Fixed Ender Dragon scale drop from player explosion.
+- Fixed rich soil not working well with all crops
+- Fixed lootr chests not using vanilla texture by default.
+- Fixed an issue where slabs placed in front of a roof made the face of the slab invisible.
+
+### Added:
+- ImmediatelyFast
+- Create Crafts & Additions
+- CIT Resewn
+- AutoReconnect
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.8.0
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.0_
