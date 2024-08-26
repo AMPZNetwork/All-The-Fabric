@@ -1,4 +1,4 @@
-![](https://www.bisecthosting.com/images/CF/ATF5/BH_NU_HEADER.webp)
+![](https://www.bisecthosting.com/images/CF/All_the_Fabric/BH_ATF_header.webp)
 
 ------
 
@@ -37,4 +37,4 @@ To ensure efficient tracking and resolution of issues, please follow this format
 ## Looking for a Reliable Server Host?
 As part of our commitment to providing the best gaming experience for our community, AMPZ Network has partnered with BisectHosting to offer an exclusive discount. Use promo code **"AMPZ"** to receive a 25% discount on your first order of any gaming services. Click the banner below to claim your discount and start playing today!
 
-[![](https://www.bisecthosting.com/images/CF/ATF5/BH_NU_PROMO.webp)](https://bisecthosting.com/AMPZ?r=ATFBREPO)
+[![](https://www.bisecthosting.com/images/CF/All_the_Fabric/BH_ATF_promo.webp)](https://bisecthosting.com/AMPZ?r=ATFBREPO)
