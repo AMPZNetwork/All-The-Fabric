@@ -4,6 +4,58 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+## Version: 5.10.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.5_
+
+### Updated:
+- Applied Energistics 2 (15.2.9 → 15.2.12)
+- Balm (7.3.6 → 7.3.9)
+- CC: Tweaked (1.111.0 → 1.113.0)
+- Concurrent Chunk Management Engine (0.2.0-11.10 → 0.2.0-11.13)
+- CraterLib (2.0.2 → 2.1.0)
+- Farmer's Delight Refabricated (2.1.2 → 2.1.6)
+- Fabric Language Kotlin (1.11.0 → 2.0.20)
+- Flan (1.10.6 → 1.10.8)
+- Jade Addons (5.2.6 → 5.3.1)
+- Jade (11.10.0 → 11.11.0)
+- JourneyMap (5.10.1 → 5.10.2)
+- ImmediatelyFast (1.2.18 → 1.2.21)
+- Macaw's Furniture (3.2.2 → 3.3.0)
+- Macaw's Windows (2.2.1 → 2.3.0)
+- Puzzles Lib (8.1.21 → 8.1.23)
+- Resourceful Lib (2.1.28 → 2.1.29)
+- Roughly Enough Items (12.1.740 → 12.1.758)
+- Traveler's Backpack (9.1.15 → 9.1.16)
+- Simple Discord RPC (3.3.2 → 3.3.3)
+
+### Changed/Fixed
+- Macaw’s Windows v2.3.0 has introduced some distortions with resizable windows placed facing south. These windows will need to be broken and placed again due to extensive optimizations. Only the windows placed in this orientation require adjustment.
+- Added new Macaw's Furniture 
+ - Kitchen Cabinets
+ - Double Kitchen Cabinets
+ - Glass Kitchen Cabinets
+- Added backpack icon in player's inventory if equipped.
+- Fixed recursive error with claim messages.
+- Fixed "Loot not generated yet" not showing in jade.
+- Fixed weird looking model for tables when there are 3 sides.
+- Fixed sleeping bag spawn point.
+- Renamed some commands to a shorter version:
+  - addClaim -> add
+  - claimInfo -> info
+  - adminMode -> bypass
+  - buyBlocks -> buy
+  - sellBlocks -> sell
+- Removed Suggestions button as not longer accepting new suggestions for this version of All The Fabric modpack.
+- General Performance Improvements. 
+
+### Removed:
+- AutoReconnect
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.9.0
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.0_
