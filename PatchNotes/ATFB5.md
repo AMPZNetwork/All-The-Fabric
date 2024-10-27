@@ -4,6 +4,48 @@
 ### Be sure to review these changes carefully before updating your world(s).
 
 ---
+
+## Version: 5.11.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.7_
+
+### Updated:
+- Bewitchment (1.20-8 → 1.20-10)
+- CC:Tweaked (1.113.0 → 1.113.1)
+- Create Slice & Dice (3.2.3 → 3.3.1)
+- Controlify (2.0.0-beta.13 → 2.0.0-beta.17)
+- Drippy Loading Screen (3.0.2 → 3.0.8)
+- FancyMenu (3.2.3 → 3.3.0 )
+- Iris Shaders (1.7.2 → 1.7.5)
+- Roughly Enough Items (v12.1.758 → v12.1.785)
+- Traveler's Backpack (9.1.16 → 9.1.18)
+- Polymorph (0.49.5 → 0.49.7)
+
+### Changed/Fixed
+- Resolved REI search issue for some users that required config reset.
+- Adjusted titlescreen logo alignment.
+- Fixed REI displaying limited items instead of the full list.
+- Fixed slicers not accepting a new tool after the previous one breaks.
+- Addressed overflow when converting recursive objects from Java to Lua.
+- Fixed various known duplication bugs.
+- Slicers can now continuously craft recipes in a basin, similar to the mixer.
+- Disabled the Accessibility screen pop-up during a fresh modpack installations.
+
+### Added:
+- GrowableOres
+- Macaw's Roofs
+- Macaw's Stairs
+- Macaw's Trapdoors
+- Macaw's Doors
+- icarus
+
+### Removed:
+- Fabricae Ex Nihilo
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.10.0
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.5_
