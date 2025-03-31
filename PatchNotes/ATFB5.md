@@ -5,6 +5,102 @@
 
 ---
 
+## Version: 5.12.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.10_
+
+### Updated:
+- Ad Astra (1.15.18 → 1.15.20)
+- Ad-Astra: Giselle Addon (6.5 → 6.16)
+- Applied Energistics 2 (15.2.12 → 15.3.3)
+- Bad Wither No Cookie - Reloaded (3.17.0 → 3.17.2)
+- Balm (7.3.9 → 7.3.20)
+- Better Advancements (0.4.2.10 → 0.4.2.25)
+- BetterTrims (2.3.1 → 2.3.8)
+- Cardinal Components API (5.2.2 → 5.2.3)
+- CC: Tweaked (1.113.1 → 1.115.1)
+- Chisel Reborn (1.8.0 → 2.0.0)
+- CIT Resewn (1.1.5 → 1.2.2) 
+- Cloth Config API (11.1.118 → 11.1.136)
+- Concurrent Chunk Management Engine (0.2.0+alpha.11.13 → 0.2.0+alpha.11.16)
+- Continuity (3.0.0-beta.5 → 3.0.0)
+- Cooking for Blockheads (16.0.6 → 16.0.13)
+- CraterLib (2.1.0 → 2.1.3)
+- Create Fabric (0.5.1-f → 0.5.1-j)
+- Create Air Fabric (18 → 26) 
+- Create: Steam 'n' Rails (1.6.4 → 1.6.9)
+- Create: Diesel Generators (2.1.4
+- Drippy Loading Screen (3.0.8 → 3.0 .11)
+- Entity Model Features (2.1.3 → 2.4.1)
+- Entity Texture Features (6.1.3 → 6.2.9)
+- Elytra Trims (3.4.3 → 3.5.6)
+- Extreme sound muffler (3.48 → 3.49)
+- Fabric API (0.92.2 → 0.92.5)
+- Fabric Language Kotlin (2.0.20 → 1.13.1)
+- FancyMenu (3.3.2 → 3.4.6)
+- Farmer's Delight Refabricated (2.1.6 → 2.3.0)
+- Flan (1.10.8 → 1.11.6)
+- Forge Config API Port (8.0.0 → 8.0.2)
+- GrowableOres (2.4.1 → 3.1.0)
+- Hephaestus (3.6.4.279 → 3.6.4.287)
+- Icarus (2.10.0 → 2.12.0)
+- iChunUtil (1.0.0 → 1.0.3)
+- ImmediatelyFast (1.2.21 → 1.15.0)
+- Indium (1.0.34 → 1.0.36)
+- Iris Shaders (1.7.5 → 1.7.6)
+- Jade (11.11.0 → 11.13.1)
+- Jade Addons (5.3.1 → 5.4.0)
+- JourneyMap (5.10.2 → 5.10.3)
+- LambDynamicLights (2.3.2 → 4.1.0)
+- Lithium (0.11.2 → 0.11.3)
+- Lootr (0.7.33.81 → 0.7.35.85)
+- Macaw's Doors (1.1.1 → 1.1.2)
+- Macaw's Trapdoors (1.1.3 → 1.1.4)
+- Macaws Stairs (1.0.0 → 1.0.1)
+- Macaw's Fences and Walls (1.1.2 → 1.2.0)
+- NetherPortalFix (13.0.1 → 13.0.2)
+- OptiGUI (2.1.7 → 2.3.0)
+- Patchouli (84 → 8.4.1)
+- Polymorph (0.49.7 → 0.49.8)
+- Puzzles Lib (8.1.23 → 8.1.29)
+- Resourceful Config (2.1.2 → 2.1.3)
+- Sodium (0.5.11 → 0.5.13)
+- Sodium Extra (0.5.4 → 0.5.9)
+- Wraith Waystones (3.3.2 → 3.3.3)
+- Tech Reborn (5.8.7 → 5.8.8)
+- Reborn Core (5.8.7 → 5.8.8)
+- Traveler's Backpack (9.1.18 → 9.1.29)
+- World Host (0.4.14 → 0.5.1)
+ 
+### Changed/Fixed
+- Dropped ATLauncher native support (importing/downloading from Modrinth can be down see our blog post [here](https://forums.ampznetwork.com/post/12-all-the-fabric-discontinuing-atlauncher-support/)
+- Fixed controllers not functioning on handheld devices (e.g., ROG Ally) running Linux.
+- Resolved a crash when item drains extracted custom potions.
+- Corrected an issue where copycat panels with framed glass wouldn't hide faces properly when using Sodium.
+- Addressed waterwheels failing to assemble correctly.
+- Fixed Farmer's Delight Dough recipes not working correctly with Create mod.
+- Fixed an issue preventing links in chat from opening upon clicking.
+- Resolved server start-up issues related to AE2.
+- Corrected behaviour causing multiple interactions per click when the plate chestplate was equipped.
+- Disabled Flan mod installation on the client side (ATLauncher only).
+- 14 New Metal Fences, they can stack upwards to be taller
+Curved Double Wooden Gates ( Work like doors, but can be stacked upwards )
+- Pressing the B key will now open the first backpack in the player's inventory if no backpack is equipped.
+
+### Added:
+- Controllable
+- Just Enough Items
+- Roughly Enough Items
+
+### Removed:
+- Controlify
+- Roughly Enough Items
+- lilac
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.11.0
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.7_
