@@ -6,15 +6,14 @@
 
 This is the official repository for All The Fabric. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/All-The-Fabric/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug_report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing All The Fabric. 
     
-#### Current Modpack Links: 
+#### Current Modpack Link: 
 - [Modrinth](https://modrinth.com/modpack/atfb)
-- [ATLauncher](https://atlauncher.com/pack/AllTheFabric5)
 
 <details>
 <summary>Legacy Versions</summary>
 <br>
 These versions are no longer receiving updates or support. However, you're welcome to download any of them if you'd like.
-
+- [All The Fabric v5 ATLauncher](https://atlauncher.com/pack/AllTheFabric5)
 - [All The Fabric 4](https://modrinth.com/modpack/all-the-fabric-old) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB4.md)
 - [All The Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-3) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB3.md)
 - [All The Fabric 2](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-2) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB2.md)
