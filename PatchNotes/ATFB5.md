@@ -73,7 +73,7 @@ _Minecraft 1.20.1_ | _Fabric Loader 0.16.10_
 - World Host (0.4.14 → 0.5.1)
  
 ### Changed/Fixed
-- Dropped ATLauncher native support (importing/downloading from Modrinth can be down see our blog post [here](https://forums.ampznetwork.com/post/12-all-the-fabric-discontinuing-atlauncher-support/)
+- Dropped ATLauncher native support (importing/downloading from Modrinth can be done, see our blog post [here](https://forums.ampznetwork.com/post/12-all-the-fabric-discontinuing-atlauncher-support/) on how to do it.
 - Fixed controllers not functioning on handheld devices (e.g., ROG Ally) running Linux.
 - Resolved a crash when item drains extracted custom potions.
 - Corrected an issue where copycat panels with framed glass wouldn't hide faces properly when using Sodium.
