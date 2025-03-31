@@ -12,12 +12,13 @@ This is the official repository for All The Fabric. If you encounter any bugs or
 <details>
 <summary>Legacy Versions</summary>
 <br>
-These versions are no longer receiving updates or support. However, you're welcome to download any of them if you'd like.
+These versions are no longer receiving updates or support. However, you're welcome to download any of them if you'd like:
+
 - [All The Fabric v5 ATLauncher](https://atlauncher.com/pack/AllTheFabric5)
-- [All The Fabric 4](https://modrinth.com/modpack/all-the-fabric-old) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB4.md)
-- [All The Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-3) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB3.md)
-- [All The Fabric 2](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-2) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB2.md)
-- [All The Fabric](https://www.curseforge.com/minecraft/modpacks/all-the-fabric) | [Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB.md)
+- [All The Fabric 4](https://modrinth.com/modpack/all-the-fabric-old) ([Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB4.md))
+- [All The Fabric 3](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-3) ([Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB3.md))
+- [All The Fabric 2](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-2) ([Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB2.md))
+- [All The Fabric](https://www.curseforge.com/minecraft/modpacks/all-the-fabric) ([Changelog](https://github.com/AMPZNetwork/All-The-Fabric/blob/main/PatchNotes/ATFB.md))
 
 </details>
   
