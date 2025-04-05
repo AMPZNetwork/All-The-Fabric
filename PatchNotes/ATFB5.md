@@ -1,7 +1,79 @@
-[![](https://www.bisecthosting.com/images/CF/ATF5/BH_NU_PROMO.webp)](https://bisecthosting.com/AMPZ?r=modrinth_ATF5)
+[![](https://www.bisecthosting.com/images/CF/ATF5/BH_NU_PROMO.webp)](https://bisecthosting.com/AMPZ?r=modrinth_ATFB5)
 
 # All The Fabric 5 | Patch Notes
 ### Be sure to review these changes carefully before updating your world(s).
+
+---
+
+## Version: 5.13.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.10_
+ 
+### Changed/Fixed
+- Added the following shaders: Photon, Complementary Unbound, Complementary Reimagined, MakeUp Ultrafast
+- Low On Fire (resourcepack that lowers the amount of space that fire takes up on the screen)
+- Swapped JEI with REI because it was not showing some recipes
+- Sophisticated Backpacks support mobile workstation upgrades from Chipped, and via the Trinklet menu they can be hidden while worn
+- Traveler’s backpacks can be hidden when work via their menu, accessible by their custom keybind
+- Quantum helmet now has working Night Vision that does not require the user to be underwater, and a toggle-button exists
+- New ways to travel by land or sea
+- New terrain generation mod
+- Disabled the “JourneyMap press [J]” text from showing in chat on every world-load
+- Enabled Dark Mode for REI by default
+- It is now possible to hide the armor which you are wearing by equipping Familiar armor in the Vanity Slots inside the Trinklet menu
+
+### Added:
+- Roughly Enough Items (REI)
+- Roughly Enough Professions (REP)
+- Amendments
+- Diggus Maximus
+- Chat Heads
+- Bobby
+- Eating Animation
+- Chipped
+- Sophisticated Backpacks
+- Sophisticated Storage
+- Create: Copycats+
+- Immersive Aircraft
+- What Are They Up To (Watut)
+- Trinkets Compat Layer for Accessories
+- Small Ships
+- Ocean's Delight
+- Traveler's Titles
+- Epic Terrain
+- Extended AE
+- [Let's Do] Candlelight
+- [Let's Do] Brewery
+- [Let's Do] Bakery
+- [Let's Do] WilderNature
+- [Let's Do] Vinery
+- [Let's Do] Meadow
+- [Let's Do] HerbalBrews
+- [Let's Do] Furniture
+- [Let's Do] Farm & Charm
+- [Let's Do] Camping
+- [Let's Do] Beachparty
+- Moyai
+- Naturalist
+- BetterNether
+- BetterEnd
+- Realistic Bees
+- Not Enough Recipe Book
+- Botany Pots
+- Botany Trees
+- VanitySlots
+- Sea Weapons
+- Fantasy Armor (Medieval Series)
+- Fantasy Weapons (Medieval Series)
+- Universal Graves
+
+### Removed:
+- Default Options
+- Just Enough Items
+- Just Enough Breeding (JEBr)
+- TrashSlot
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
 
 ---
 
