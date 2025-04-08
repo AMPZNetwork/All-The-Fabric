@@ -5,6 +5,49 @@
 
 ---
 
+## Version: 5.13.1
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.10_
+ 
+### Changed/Fixed
+- Growable Ores 3.1.0 -> 2.4.1 because the Greenhouse Controller from Tech Reborn was not harvesting them
+
+### Added:
+- Default Options
+- MrCrayfish's Furniture Mod: Refurbished
+- Villager In A Bucket
+- Decorative Lamps
+- Display Case
+- Cluttered
+- Perfect Plushies
+- Nice Clocks
+- Just Outdoor Stuffs
+- Create: Interiors
+- Create: Oxidized
+- [Let's Do Addon] Fluids
+- Create: Better Villagers
+- Create: BitterBallen
+- Create: Food
+- BotanyPotsTiers
+- Automobility
+- Do a Barrel Roll
+- Create: Fastfood
+- Create Deco
+- Supplementaries
+- Supplementaries Squared
+- More Doors
+- Convenient Décor
+- Decorative Gaming Consoles
+
+### Removed:
+- Universal Graves
+- Epic Terrain
+- Bobby
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.13.0
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.10_
