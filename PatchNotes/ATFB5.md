@@ -5,6 +5,82 @@
 
 ---
 
+## Version: 5.14.0
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.14_
+
+#### This update will break existing worlds due to the removal of some terrain mods. Update at your own risk.
+ 
+### Changed/Fixed
+- The new minimum requirement to run the pack is now 4GB anything below will not work anymore.
+- Fixed a significant memory usage issue that has been present since patch 5.13.0. 
+- Removed fade in effect when loading titlescreen.
+- Updated default splash text to remove twitter references. 
+- Implemented various adjustments to mod configs for balance and performance please see below on what mods configs was changed.
+#### Ad Astra
+* Increased the maximum block range for Oxygen and Gravity distributors.
+    * `maxDistributionBlocks`: `6000` -> `20000`
+
+#### Create
+* **Client-Side:**
+    * Reduced the density of fan particles to improve performance.
+        * `fanParticleDensity`: `0.5` -> `0.2`
+    * Reduced the maximum light volume for contraptions.
+        * `maximumContraptionLightVolume`: `16384` -> `8192`
+* **Server-Side:**
+    * Increased the maximum range for Mechanical Pumps and Mechanical Ejectors.
+        * `mechanicalPumpRange`: `16` -> `32`
+        * `maxEjectorDistance`: `32` -> `64`
+    * Significantly increased the maximum length for Belts and Tracks.
+        * `maxBeltLength`: `20` -> `64`
+        * `maxTrackPlacementLength`: `32` -> `128`
+    * Reduced the push/pull distance of Encased Fans.
+        * `fanPushDistance`: `20` -> `10`
+        * `fanPullDistance`: `20` -> `10`
+    * Increased the effective range of Toolboxes.
+        * `toolboxRange`: `10` -> `20`
+    * Improved Schematicannon efficiency and speed.
+        * `schematicannonDelay`: `10` -> `3`
+        * `schematicannonShotsPerGunpowder`: `400` -> `800`
+    * Hostile mobs can no longer be placed in seats.
+        * `seatHostileMobs`: `true` -> `false`
+
+#### Create: Steam 'n' Rails
+* Trains now require fuel to operate, increasing realism.
+    * `realisticTrains`: `false` -> `true`
+
+#### Realistic Bees
+* Reduced the number of bees that can spawn and occupy a single hive to improve performance.
+    * `extraBeeSpawnsPerBee`: `9` -> `2`
+    * `beeHiveBeeSpace`: `20` -> `10`
+
+#### Small Ships
+* Changed the ship speed unit display from km/h to knots.
+    * `shipModSpeedUnit`: `0` -> `2`
+
+#### Sophisticated Backpacks
+* Disabled entities from spawning with backpacks.
+    * `chance`: `0.01` -> `0.0`
+
+### Removed:
+- Traveler's Titles
+- BetterEnd
+- BetterNether
+- BCLib
+- Let's do mods
+- Do a barrel roll
+- Not Enough Recipe Book
+- OctoLib
+- Decorative Lamps
+- Chat Heads
+- Traveler's Titles
+- Diggus Maximus
+- VanitySlots
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.13.1
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.10_
