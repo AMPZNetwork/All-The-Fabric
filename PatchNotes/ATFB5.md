@@ -5,6 +5,18 @@
 
 ---
 
+## Version: 5.14.1
+
+_Minecraft 1.20.1_ | _Fabric Loader 0.16.14_
+
+ 
+### Changed/Fixed
+- Resolved a crash issue triggered when accessing player inventories.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric)
+
+---
+
 ## Version: 5.14.0
 
 _Minecraft 1.20.1_ | _Fabric Loader 0.16.14_
